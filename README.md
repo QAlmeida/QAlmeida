@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Iuri Almeida
 
-<!--
-**QAlmeida/QAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou baiano e soteropolitano, atuo como **QA Engineer** e tenho mais de **15 anos de experiência na área de TI**, sendo **7 deles dedicados à Qualidade de Software**. Minha trajetória inclui atuação em grandes projetos, tanto públicos quanto privados, sempre com foco em entregar software com qualidade, eficiência e valor real para o usuário final.
 
-Here are some ideas to get you started:
+🎯 Atualmente, estou cursando uma **Pós-graduação com foco em automação de testes**, buscando aprimorar minhas habilidades em testes automatizados e evoluir tecnicamente na área de QA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Tecnologias e Ferramentas
+
+- ✅ Testes Funcionais, E2E, APIs e Exploratório
+- 🤖 Automação com **Playwright**, **Python** e **Gherkin (BDD)**
+- 📈 Testes de performance com **K6** e **JMeter**
+- 🔗 Integrações com **Postman**, **Swagger**, **Grafana**
+- 🧪 CI/CD e versionamento com **Azure DevOps**, **Git** e **Jenkins**
+- 📋 Metodologias ágeis: **Scrum** e **Kanban**
+
+---
+
+## 📌 Sobre mim
+
+- Pai de dois filhos incríveis 👨‍👧‍👦
+- Tutor de três gatos folgados 🐾🐈
+- Fã de leitura, séries e futebol ⚽
+- Torcedor apaixonado pelo **Bahêa** (BBMP!) 🔵⚪🔴
+- E nas horas vagas, tentando aprender a tocar violão 🎸
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/qalmeida)
+- 📧 iuri.almeida@yahoo.com
