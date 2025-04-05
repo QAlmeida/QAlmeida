@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Iuri Almeida
 
-Sou baiano e soteropolitano, atuo como **QA Engineer** e tenho mais de **15 anos de experiência na área de TI**, sendo **7 deles dedicados à Qualidade de Software**. Minha trajetória inclui atuação em grandes projetos, tanto públicos quanto privados, sempre com foco em entregar software com qualidade, eficiência e valor real para o usuário final.
+Atuo como **QA Engineer** e tenho mais de **15 anos de experiência na área de TI**, sendo **7 deles dedicados à Qualidade de Software**. Minha trajetória inclui atuação em grandes projetos, tanto públicos quanto privados, sempre com foco em entregar software com qualidade, eficiência e valor real para o usuário final.
 
 🎯 Atualmente, estou cursando uma **Pós-graduação com foco em automação de testes**, buscando aprimorar minhas habilidades em testes automatizados e evoluir tecnicamente na área de QA.
 
